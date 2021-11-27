@@ -1,0 +1,206 @@
+{
+    "rumah-sakit": [
+        {
+            "id": "1",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH  DR. ZAINOEL ABIDIN",
+            "alamat": "JL. TGK DAUD BEUREUEH, NO. 108 B. ACEH",
+            "kota": "KOTA BANDA ACEH, ACEH",
+            "telepon": "(0651) 34565",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Aceh"
+        },
+        {
+            "id": "2",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH CUT MEUTIA KAB. ACEH UTARA",
+            "alamat": "JL. BANDA ACEH-MEDAN KM.6 BUKET RATA LHOKSEUMAWE",
+            "kota": "KOTA LHOKSEUMAWE, ACEH",
+            "telepon": "(0645) 46334",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Aceh"
+        },
+        {
+            "id": "3",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RSUP SANGLAH",
+            "alamat": "JL. DIPONEGORO DENPASAR BALI",
+            "kota": "KOTA DENPASAR, BALI",
+            "telepon": "(0361) 227912",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Bali"
+        },
+        {
+            "id": "4",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH KAB. BULELENG",
+            "alamat": "JL. NGURAH RAI 30 SINGARAJA",
+            "kota": "BULELENG, BALI",
+            "telepon": "(0362) 22046",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Bali"
+        },
+        {
+            "id": "5",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH SANJIWANI GIANYAR",
+            "alamat": "JL. CIUNG WENARA NO.2 GIANYAR",
+            "kota": "GIANYAR, BALI",
+            "telepon": "(0361) 943049",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Bali"
+        },
+        {
+            "id": "6",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH TABANAN",
+            "alamat": "JL. PAHLAWAN NO. 14 TABANAN",
+            "kota": "TABANAN, BALI",
+            "telepon": "(0361) 811027",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Bali"
+        },
+        {
+            "id": "7",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH KABUPATEN TANGERANG",
+            "alamat": "JL. A YANI NO. 9 TANGERANG, KOTA TANGERANG",
+            "kota": "TANGERANG, BANTEN",
+            "telepon": "(021) 5523507 / (021)  5512948 / (021) 5513709",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Banten"
+        },
+        {
+            "id": "8",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH TABANAN",
+            "alamat": "JL. PAHLAWAN NO. 14 TABANAN",
+            "kota": "TABANAN, BALI",
+            "telepon": "(0361) 811027",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Bali"
+        },
+        {
+            "id": "9",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH KABUPATEN TANGERANG",
+            "alamat": "JL. A YANI NO. 9 TANGERANG, KOTA TANGERANG",
+            "kota": "TANGERANG, BANTEN",
+            "telepon": "(021) 5523507 / (021)  5512948 / (021) 5513709",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Banten"
+        },
+        {
+            "id": "10",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH KABUPATEN SIDOARJO",
+            "alamat": "JL. A YANI NO. 9 SIDOARJO, KOTA SIDOARJO",
+            "kota": "SIDOARJO, JAWA TIMUR",
+            "telepon": "(021) 5523507 / (021)  5512948 / (021) 5513709",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Banten"
+        },
+        {
+            "id": "11",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH KECAMATAN GEDANGAN",
+            "alamat": "JL. A YANI NO. 9 SIDOARJO, KOTA SIDOARJO",
+            "kota": "SIDOARJO, JAWA TIMUR",
+            "telepon": "(021) 5523507 / (021)  5512948 / (021) 5513709",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Banten"
+        },
+        {
+            "id": "12",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH KECAMATAN PUNGGUL",
+            "alamat": "JL. A YANI NO. 9 SIDOARJO, KOTA SIDOARJO",
+            "kota": "SIDOARJO, JAWA TIMUR",
+            "telepon": "(021) 5523507 / (021)  5512948 / (021) 5513709",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Banten"
+        },
+        {
+            "id": "13",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH KECAMATAN PANDEWATAN",
+            "alamat": "JL. A YANI NO. 9 SIDOARJO, KOTA SIDOARJO",
+            "kota": "SIDOARJO, JAWA TIMUR",
+            "telepon": "(021) 5523507 / (021)  5512948 / (021) 5513709",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Banten"
+        },
+        {
+            "id": "14",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH KECAMATAN PANDEWATAN",
+            "alamat": "JL. A YANI NO. 9 SIDOARJO, KOTA SIDOARJO",
+            "kota": "SIDOARJO, JAWA TIMUR",
+            "telepon": "(021) 5523507 / (021)  5512948 / (021) 5513709",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Banten"
+        },
+        {
+            "id": "15",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH KECAMATAN NGUDI",
+            "alamat": "JL. A YANI NO. 9 SIDOARJO, KOTA SIDOARJO",
+            "kota": "SIDOARJO, JAWA TIMUR",
+            "telepon": "(021) 5523507 / (021)  5512948 / (021) 5513709",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Banten"
+        }
+    ],
+    "konsultasi": [
+        {
+            "id": "1",
+            "gambar": "assets/images/konsultasi/covid1.jpeg",
+            "judul": "Gejala Covid",
+            "pertanyaan": "Apa yang harus saya lakukan ketika saya Isolasi Mandiri?",
+            "jawaban": "Selama menjalani isolasi mandiri, pantau apa saja gejala yang muncul, hari demi hari. Tetaplah berhubungan dengan dokter, dan pastikan untuk mendapatkan perawatan jika kamu mengalami kesulitan bernapas, atau memiliki gejala darurat lainnya, seperti: Nyeri atau tekanan yang terus-menerus di dada.Linglung. Ketidakmampuan untuk bangun atau tetap terjaga.Kulit, bibir, atau bantalan kuku pucat, abu-abu, atau biru, tergantung pada warna kulit."
+        },
+        {
+            "id": "2",
+            "gambar": "assets/images/konsultasi/covid2.jpg",
+            "judul": "Gejala Covid",
+            "pertanyaan": "Apa yang harus saya lakukan ketika saya mengalami gejala covid?",
+            "jawaban": "Pada kondisi di mana harus berada di sekitar orang lain atau hewan, bahkan di rumah sekali pun, kamu harus memakai masker. Jika kamu tidak bisa memakai masker (karena kesulitan bernapas, misalnya), tutupi batuk dan bersin dengan tisu bersih, lalu segera buang tisu dan cuci tangan setelahnya. Cobalah menjaga jarak fisik dengan orang lain, untuk mencegah penularan. Selain itu, penting juga untuk rutin mencuci tangan dengan air dan sabun, setidaknya selama 20 detik. Jika sabun dan air tidak tersedia, bersihkan tangan dengan hand sanitizer yang mengandung setidaknya 60 persen alkohol.Sering-seringlah mencuci tangan, terutama setelah membuang ingus, batuk, atau bersin, pergi ke kamar mandi, dan sebelum makan atau menyiapkan makanan. Hindari menyentuh mata, hidung, dan mulut dengan tangan yang belum dicuci. Hindari juga berbagi barang-barang rumah tangga pribadi, termasuk piring, gelas minum, cangkir, peralatan makan, handuk, atau tempat tidur dengan orang lain di rumah. Cuci barang-barang tersebut dengan seksama setelah digunakan dengan sabun dan air, atau masukkan ke mesin pencuci piring.`"
+        },
+        {
+            "id": "3",
+            "gambar": "assets/images/konsultasi/covid3.png",
+            "judul": "Gejala Covid",
+            "pertanyaan": "Apa yang harus saya konsumsi ketika saya mengalami gejala covid?",
+            "jawaban": "Jika dinyatakan positif COVID-19, penting untuk istirahat dan minum air putih yang cukup. Untuk meredakan gejala, kamu bisa minum obat pereda nyeri yang dijual bebas, seperti asetaminofen. Gunakan aplikasi Halodoc untuk berbicara dengan dokter secara berkala, atau meminta resep obat dan vitamin yang dibutuhkan."
+        },
+        {
+            "id": "4",
+            "gambar": "assets/images/konsultasi/covid4.jpeg",
+            "judul": "Gejala Covid",
+            "pertanyaan": "Apa yang harus saya konsumsi ketika saya mengalami gejala covid?",
+            "jawaban": "Jika dinyatakan positif COVID-19, penting untuk istirahat dan minum air putih yang cukup. Untuk meredakan gejala, kamu bisa minum obat pereda nyeri yang dijual bebas, seperti asetaminofen. Gunakan aplikasi Halodoc untuk berbicara dengan dokter secara berkala, atau meminta resep obat dan vitamin yang dibutuhkan."
+        },
+        {
+            "id": "5",
+            "gambar": "assets/images/konsultasi/covid5.jpeg",
+            "judul": "Gejala Covid",
+            "pertanyaan": "Apa yang harus saya konsumsi ketika saya mengalami gejala covid?",
+            "jawaban": "Jika dinyatakan positif COVID-19, penting untuk istirahat dan minum air putih yang cukup. Untuk meredakan gejala, kamu bisa minum obat pereda nyeri yang dijual bebas, seperti asetaminofen. Gunakan aplikasi Halodoc untuk berbicara dengan dokter secara berkala, atau meminta resep obat dan vitamin yang dibutuhkan."
+        }
+    ]
+}
